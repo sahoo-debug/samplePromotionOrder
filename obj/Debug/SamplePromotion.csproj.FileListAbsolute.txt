@@ -1,0 +1,7 @@
+C:\SKSFile\SamplePromotion\bin\Debug\SamplePromotion.exe.config
+C:\SKSFile\SamplePromotion\bin\Debug\SamplePromotion.exe
+C:\SKSFile\SamplePromotion\bin\Debug\SamplePromotion.pdb
+C:\SKSFile\SamplePromotion\obj\Debug\SamplePromotion.csprojAssemblyReference.cache
+C:\SKSFile\SamplePromotion\obj\Debug\SamplePromotion.csproj.CoreCompileInputs.cache
+C:\SKSFile\SamplePromotion\obj\Debug\SamplePromotion.exe
+C:\SKSFile\SamplePromotion\obj\Debug\SamplePromotion.pdb
